@@ -1,0 +1,5 @@
+{
+    "prompt_zeroshot_ml": "Given the user's watch history: {}, and a set of ten candidate movies: {}, Recommend the next movies from the candidate set that the user would most likely watch next. Return only the titles of the movies in ranked order without explanations.",
+    "prompt_instruct_ml": "Given the user's watch history: {}, and a set of ten candidate movies: {}, Recommend the next movies from the candidate set that the user would most likely watch next. Return only the titles of the movies in ranked order without explanations.",
+    "prompt_icl_ml": "Given the user's watch history: {}, and a set of ten candidate movies: {}. The user chose to watch {}. Recommend the next movies from the new candidate set {} that the user would most likely watch next. Return only the titles of the movies in ranked order without explanations"
+}

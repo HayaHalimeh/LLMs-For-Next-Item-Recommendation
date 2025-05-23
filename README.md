@@ -18,4 +18,4 @@ The `prompts.json` file includes the crafted prompts used for zero-shot, in-cont
 
 The `metrics` file includes the logic for the evaluation
 
-The `compute_avg_metrics` file includes a simple logic to aggregate results of different independent runs
+The `compute_avg_metrics` file includes a simple function to aggregate results of different independent runs 

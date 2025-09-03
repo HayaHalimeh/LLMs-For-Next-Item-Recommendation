@@ -1,4 +1,4 @@
-This repository accompanies the paper LLMs For Warm and Cold Next-Item Recommendation: A Comparative Study across Zero-Shot Prompting, In-Context Learning and Fine-Tuning	
+This repository accompanies the paper LLMs For Warm and Cold Next-Item Recommendation: A Comparative Study across Zero-Shot Prompting, In-Context Learning and Fine-Tuning, submitted to the 33rd ISD Conference 2025
 
 ---
 
